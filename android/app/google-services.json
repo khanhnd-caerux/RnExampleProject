@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301286227069",
+    "project_id": "rnfirebasenotification-df8a0",
+    "storage_bucket": "rnfirebasenotification-df8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301286227069:android:cabc7f8aff9bd514d98514",
+        "android_client_info": {
+          "package_name": "com.rnexampleproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F3jE-r9LpT2BlKoYsstKFeXsXjFGDMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
